@@ -34,12 +34,6 @@ O **Komodo News** é um protótipo de site editorial temático, desenvolvido com
 
 ---
 
-## 📸 Preview
-
-![Preview do projeto](assets/projeto.png)
-
----
-
 ## 🎨 Design
 
 - Identidade visual com paleta **amarelo e preto**
