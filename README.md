@@ -1,4 +1,4 @@
-# Protipo de site
+# Prototipo de site
 Atividade relacionada ao desenvolvimento de sites
 <div align="center">
 
