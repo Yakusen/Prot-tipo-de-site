@@ -1,4 +1,4 @@
-# Prottipo de site
+# Protipo de site
 Atividade relacionada ao desenvolvimento de sites
 <div align="center">
 
@@ -51,4 +51,4 @@ O **Komodo News** é um protótipo de site editorial temático, desenvolvido com
 
 ## 👩‍💻 Autora
 
-**Emy** • [LinkedIn](https://linkedin.com/in/seu-perfil) • [GitHub](https://github.com/seu-usuario)
+**Emy** 
